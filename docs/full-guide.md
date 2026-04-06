@@ -23,6 +23,8 @@ daily_stock_analysis/
 └── .github/workflows/   # GitHub Actions
 ```
 
+> 更详细的目录说明与核心流程见 [仓库介绍与使用说明](INTRO_AND_USAGE.md)。
+
 ## 📑 目录
 
 - [项目结构](#项目结构)
